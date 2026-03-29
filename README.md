@@ -1,6 +1,6 @@
 <h1> Hii 👋 I'm Muhammad Waleed Khan </h1>
 <h2> 🌐 Socials:</h2>
-<h3>🔗 LinkedIn</h3>https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white(https://linkedin.com/in/Muhammad Waleed Khan)
+<h3>🔗 LinkedIn</h3>[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white(https://linkedin.com/in/Muhammad Waleed Khan)](https://www.linkedin.com/in/muhammad-waleed-khan-005825268/)
 <h3>📧 email</h3>https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white(mailto:waleedhaan1234@gmail.com) 
 
 # 💻 Tech Stack:
