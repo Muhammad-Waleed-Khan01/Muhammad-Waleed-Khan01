@@ -11,30 +11,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Waleed-Khan01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Waleed-Khan01&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Waleed-Khan01&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Waleed-Khan01&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Waleed-Khan01&theme=tokyonight)
-## 🏗️ Backend Projects (PHP + Laravel)
 
-### 1️⃣ CRUD System
-[![CRUD System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=CRUD-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/CRUD-System-Laravel)  
-**Tech Stack:** PHP, Laravel, MySQL  
-**Features:**  
-- 🔹 Create, Read, Update, Delete functionality  
-- 🔹 MVC architecture  
-- 🔹 Validation & error handling  
-- 🔹 Responsive UI with Bootstrap  
+### 1️⃣ ToDo App
+[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=ToDo-App&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/ToDo-App)
 
----
+### 2️⃣ CRUD System (PHP Laravel)
+[![CRUD System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=CRUD-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/CRUD-System-Laravel)
 
-### 2️⃣ Authentication System
-[![Auth System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=Auth-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/Auth-System-Laravel)  
-**Tech Stack:** PHP, Laravel, MySQL  
-**Features:**  
-- 🔹 User Registration & Login  
-- 🔹 Password hashing & security  
-- 🔹 Email verification  
-- 🔹 Role-based access control  
+### 3️⃣ Authentication System (PHP Laravel)
+[![Auth System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=Auth-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/Auth-System-Laravel)
 
----
+### 4️⃣ Expense Tracker (React)
+[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=Expense-Tracker-React&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/Expense-Tracker-React)
