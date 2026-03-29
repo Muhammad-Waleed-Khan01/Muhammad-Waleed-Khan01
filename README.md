@@ -12,3 +12,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Waleed-Khan01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Profile Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Waleed-Khan01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Waleed-Khan01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Waleed-Khan01&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Waleed-Khan01&theme=tokyonight)
