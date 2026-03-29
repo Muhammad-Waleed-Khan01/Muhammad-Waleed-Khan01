@@ -11,15 +11,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muhammad-Waleed-Khan01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ## 📊 Profile Summary
-
-### 1️⃣ ToDo App
-[![ToDo App](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=ToDo-App&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/ToDo-App)
-
-### 2️⃣ CRUD System (PHP Laravel)
-[![CRUD System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=CRUD-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/CRUD-System-Laravel)
-
-### 3️⃣ Authentication System (PHP Laravel)
-[![Auth System](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=Auth-System-Laravel&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/Auth-System-Laravel)
-
-### 4️⃣ Expense Tracker (React)
-[![Expense Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Waleed-Khan01&repo=Expense-Tracker-React&theme=tokyonight)](https://github.com/Muhammad-Waleed-Khan01/Expense-Tracker-React)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Waleed-Khan01&theme=tokyonight)
